@@ -138,7 +138,16 @@ body{
 
 .act2{
     position: absolute;
-    right: 220px;
+    right: 230px;
+    color: rgb(158, 28, 28);
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.project{
+    position: absolute;
+    left: 130px;
     color: rgb(158, 28, 28);
     font-weight: bold;
     font-style: italic;
